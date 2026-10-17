@@ -36,7 +36,7 @@ I'm a data person who likes questions with real stakes. How much financial expos
 
 ```yaml
 name: Raj Kumar Parihar
-based_in: Atlanta, Georgia, USA
+based_in: Stockbridge, Georgia, USA
 education: Master's, Georgia Tech
 certified: Google Advanced Data Analytics Professional Certificate
 community: Mentor Me Collective
