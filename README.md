@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=1000&color=1D7874&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I%27m+Raj+Kumar+Parihar;I+turn+data+into+decisions;Forecasting+%C2%B7+NLP+%C2%B7+Simulation+%C2%B7+Visual+Analytics" alt="Raj Kumar Parihar: I turn data into decisions" />
 </a>
 
-**Georgia Tech master's student · Google-certified data analyst · hackathon builder**
+**Georgia Tech MS in Analytics · Google-Certified Data Analyst · Hackathon Builder**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9K%2B%20followers-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-kumar-parihar/)
 [![GitHub followers](https://img.shields.io/github/followers/rajkumarparihar?style=flat-square&logo=github&label=GitHub%20followers&color=181717)](https://github.com/rajkumarparihar)
