@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/rajkumarparihar">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=1000&color=1D7874&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I%27m+Raj+Kumar+Parihar;I+turn+data+into+decisions;Forecasting+%C2%B7+NLP+%C2%B7+Simulation+%C2%B7+Visual+Analytics" alt="Raj Kumar Parihar: I turn data into decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=1000&color=1D7874&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I%27m+Raj+Kumar+Parihar;I+turn+data+into+decisions;Forecasting+%C2%B7+NLP+%C2%B7+Simulation+%C2%B7+Visual+Analytics" alt="Raj Kumar Parihar: I turn data into decisions" />
 </a>
 
 **Georgia Tech master's student · Google-certified data analyst · hackathon builder**
