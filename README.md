@@ -1,5 +1,6 @@
-  <h1 align="center; style="color: #0056b3; font-size: 48px; font-weight: bold;">Raj Kumar Parihar</h1>
-  <h3 align="center>Data Analyst • Accounting Professional • Research Aspirant • Lifelong Learner</h3>
+ <h1 align="center">Raj Kumar Parihar</h1>
+<h3 align="center">Data Analyst • Accounting Professional • Research Aspirant • Lifelong Learner</h3>
+
 
 <!-- Profile README for Raj Kumar Parihar. Place at the root of the public repo github.com/rajkumarparihar/rajkumarparihar -->
 
