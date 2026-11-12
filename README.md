@@ -1,7 +1,7 @@
-<center>
+<div style="text-align: center;">
   <h1>Raj Kumar Parihar</h1>
   <h3>Data Analyst • Accounting Professional • Research Aspirant • Lifelong Learner</h3>
-</center>
+</div>
 <!-- Profile README for Raj Kumar Parihar. Place at the root of the public repo github.com/rajkumarparihar/rajkumarparihar -->
 
 <div align="center">
