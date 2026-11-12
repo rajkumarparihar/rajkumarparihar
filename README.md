@@ -1,3 +1,4 @@
+<div align="center">
 # Raj Kumar Parihar 
 ## Data Analyst • Accounting Professional • Research Aspirant • Lifelong Learner
 
