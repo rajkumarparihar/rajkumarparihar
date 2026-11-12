@@ -1,6 +1,6 @@
 <center>
-# Raj Kumar Parihar
-### Data Analyst • Accounting Professional • Research Aspirant • Lifelong Learner
+  <h1>Raj Kumar Parihar</h1>
+  <h3>Data Analyst • Accounting Professional • Research Aspirant • Lifelong Learner</h3>
 </center>
 <!-- Profile README for Raj Kumar Parihar. Place at the root of the public repo github.com/rajkumarparihar/rajkumarparihar -->
 
